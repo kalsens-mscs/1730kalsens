@@ -86,5 +86,10 @@ namespace kalsens1d1
                 + Convert.ToDecimal(txtUSDUK.Text)
                 ).ToString("0.00");
         }
+
+        private void PictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
