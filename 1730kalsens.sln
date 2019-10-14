@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalsens1g1", "kalsens1g1\ka
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalsens1f1", "kalsens1f2\kalsens1f1.csproj", "{B9D91AFE-BC83-4EE9-9FC4-E5CEE497EDD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalsens2b1", "Kalsens2b1\Kalsens2b1.csproj", "{A509CD91-25BB-494B-AE7D-7C0B8F03DB7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B9D91AFE-BC83-4EE9-9FC4-E5CEE497EDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9D91AFE-BC83-4EE9-9FC4-E5CEE497EDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9D91AFE-BC83-4EE9-9FC4-E5CEE497EDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A509CD91-25BB-494B-AE7D-7C0B8F03DB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A509CD91-25BB-494B-AE7D-7C0B8F03DB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A509CD91-25BB-494B-AE7D-7C0B8F03DB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A509CD91-25BB-494B-AE7D-7C0B8F03DB7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
